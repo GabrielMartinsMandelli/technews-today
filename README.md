@@ -1,8 +1,6 @@
 # 📰 TechNews Today
 
 ![Status](https://img.shields.io/badge/status-em_desenvolvimento-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 O **TechNews Today** é um portal moderno de notícias e atualizações do mundo da tecnologia, desenvolvimento de software, inteligência artificial e inovação. O objetivo do projeto é fornecer uma interface rápida, intuitiva e responsiva para que os usuários acompanhem as principais novidades do setor em tempo real.
 
